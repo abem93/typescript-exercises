@@ -1,0 +1,2 @@
+var subjects;
+var student;
