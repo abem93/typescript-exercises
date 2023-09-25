@@ -18,4 +18,4 @@ const car: Vehicle = {
 }
 
 car.accelerate();
-car.brake()
+car.brake();
